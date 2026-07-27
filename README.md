@@ -3,7 +3,7 @@
 # Hi there, I'm Noah Tournier 👋
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=noahtournier&rank_icon=github&hide=issues,contribs&show_icons=true&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=noahtournier&langs_count=3&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=noahtournier&langs_count=4&hide_values=false)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=noahtournier&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=noahtournier&langs_count=4)
 </div>
 
 ---

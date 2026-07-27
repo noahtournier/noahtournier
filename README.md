@@ -26,5 +26,5 @@
 
 | Course Unit | Project Description | Programming Language | Paper |
 | ----------- | ------------------ | -------------------- | ----- |
-|**Geometric data analysis**| This project studies the FibeRed algorithm, which uses vector bundles (base + fibers) to reduce dataset dimensionality while preserving both global topology and local geometry. It examines the algorithm's mechanics and shows that outliers can significantly degrade its embedding quality. | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) | [Paper](https://github.com/noahtournier/noahtournier/blob/main/paper/Geometric_Data_Analysis.pdf) |
+|**Geometric data analysis**| This project studies the FibeRed algorithm, which uses vector bundles (base + fibers) to reduce dataset dimensionality while preserving both global topology and local geometry. It examines the algorithm's mechanics and shows that outliers can significantly degrade its embedding quality. | [![Python](https://img.shields.io/badge/python-%E2%89%A53.11-blue?logo=python&logoColor=white)](https://www.python.org/) | [Paper](https://github.com/noahtournier/noahtournier/blob/main/paper/Geometric_Data_Analysis.pdf) |
 
